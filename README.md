@@ -1,2 +1,0 @@
-# learn-sass
-learn-sass
